@@ -1,4 +1,4 @@
-# Hi there, I'm Athul 👋
+# Hi there, I'm Athul OR👋
 
 💻 **MEARN Fullstack Developer | Azure DevOps Engineer**  
 📍 Based in **Bangalore, India**  
@@ -60,7 +60,7 @@ I am a passionate **Full Stack Developer** and **DevOps Enthusiast** who loves b
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/athul-or">
+  <a href="https://www.linkedin.com/in/athul-or/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:athulor452gmail.com">
